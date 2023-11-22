@@ -20,22 +20,22 @@
 
 ## Prototipação Higth Fidelity
 ### Tela de cadastro pessoa física
-![Cadastro pessoa fisica](https://user-images.githubusercontent.com/110983337/226496151-866540e4-4610-4790-986a-8ac9cfb8ffc9.png)
+![Cadastro pessoa fisica](https://user-images.githubusercontent.com/105927351/284775016-4d6e8ca5-a955-4966-acfe-2567bbaa4bc2.jpg)
 
 ### Tela de cadastro de pessoa jurídica
-![Cadastro de pessoa jurídica](https://user-images.githubusercontent.com/101409419/225489726-14e4e043-f5d5-40ac-b85d-5e02c4fed120.png)
+![Cadastro de pessoa jurídica](https://user-images.githubusercontent.com/105927351/284775019-6539187d-4a4f-4b29-a5d6-3882c5a24f15.jpg)
 
 ### Tela de cadastro de alunos
-![Cadastro de Alunos](https://user-images.githubusercontent.com/101409419/225489966-c22c26a1-2d56-4713-bca0-5cdf4161daff.png)
+![Cadastro de Alunos](https://user-images.githubusercontent.com/105927351/284775091-c41d9218-5743-4c0e-af4b-2fa8274e831d.jpeg)
 
 ### Tela de Cadastro de professores
-![Cadastro de professores](https://user-images.githubusercontent.com/113261440/225491960-b96e93d9-fffb-4f82-b223-4a2896f0b3f8.png)
+![Cadastro de professores](https://user-images.githubusercontent.com/105927351/284775008-0e5feda1-9110-4cd9-8e2a-da78f5b1a482.jpg)
 
 ### Tela Cadastro de fornecedores
-![Cadastro de fornecedores](https://user-images.githubusercontent.com/99230983/225492891-5f56339f-c44b-4285-a360-9f98a8610636.png)
+![Cadastro de fornecedores](https://user-images.githubusercontent.com/105927351/284774922-4ac4a93e-0ec8-4a39-ba23-a3598f8c0525.jpeg)
 
 ### Tela CNPJ ja informado
-![CNPJ ja informado](https://user-images.githubusercontent.com/113261440/225491960-b96e93d9-fffb-4f82-b223-4a2896f0b3f8.png)
+![CNPJ ja informado](https://user-images.githubusercontent.com/105927351/284774923-19314906-8b2d-49eb-8984-cfecaf3f5e69.jpeg)
 
 
 [Projeto Integrador III - Sistema universitario - Grupo 28]
